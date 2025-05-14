@@ -2,6 +2,8 @@
 
 A website that tracks and displays the number of days since the last accident on the Rama II Road project in Bangkok, Thailand. The goal is to raise awareness about road safety and highlight the impact of roadside construction.
 
+Live website: https://rama-2-safety-tracker.windsurf.build/
+
 ## Features
 
 - Displays a prominent counter showing days since the last accident
